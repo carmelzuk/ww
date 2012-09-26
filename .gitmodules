@@ -1,0 +1,3 @@
+[submodule "src/Jet"]
+	path = src/Jet
+	url = git@github.com:carmelzuk/Jet.git
