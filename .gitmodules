@@ -1,3 +1,6 @@
 [submodule "src/Jet"]
 	path = src/Jet
 	url = git@github.com:carmelzuk/Jet.git
+[submodule "xmlrpc"]
+	path = xmlrpc
+	url = git@github.com:carmelzuk/jetXmlrpc.git
